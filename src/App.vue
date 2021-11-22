@@ -3,8 +3,8 @@
     <header>
       <h1>Boussejra Amir Faircorp Web App</h1>
       <p class="lead">
-        This app is dedicated to viewing the Windows, Rooms and Heaters from the
-        App we built in the previous courses
+        Web App to view and manage Windows, Rooms and Heaters from Faircorp
+        Spring Backend
       </p>
     </header>
 
@@ -53,11 +53,18 @@ export default {
 }
 
 h1 {
-  text-align: center;
-  font-family: Helvetica;
-  font-size: 60px;
-  letter-spacing: 4px;
-  word-spacing: -7px;
-  color: black;
+  color: #7c795d;
+  font-family: "Trocchi", serif;
+  font-size: 45px;
+  font-weight: normal;
+  line-height: 48px;
+  margin: 0;
+}
+p {
+  color: #525252;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  margin: 0 0 24px;
 }
 </style>
