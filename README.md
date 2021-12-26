@@ -1,4 +1,4 @@
-# README
+# Web Frontend for https://github.com/Aboussejra/faircorp_backend
 You may look at the deployed website directly here : https://faircorp-web-app.onrender.com/
 Yet, there may be a problem of the data displaying. That is because you need your browser to accept a certificate from the backend. To do so you may go once there :
 
